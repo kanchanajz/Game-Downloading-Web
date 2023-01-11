@@ -402,6 +402,7 @@ section{
 
 }
 
+
 .next-page a:hover{
     background: var(--light-color);
 
@@ -412,11 +413,15 @@ section{
     justify-content: space-between;
     padding: 20px;
     margin-top: 90px;
+    background-color: black;
+    border-radius: 10px;
 }
+
 
 .copyright p{
     color: var(--text-color);
     font-size: 12px;
+    margin-top: 9px;
 }
 
 .video-container video{
